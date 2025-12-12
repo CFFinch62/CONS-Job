@@ -2,6 +2,8 @@
 
 # CONS Job (Scheme Development Environment)
 
+![CONS Job Screenshot](images/CONS_Job.png)
+
 **CONS Job** is a beginner-friendly Integrated Development Environment (IDE) designed specifically for students and new programmers learning **Scheme**. Built with Python and PyQt6, it provides a modern, accessible interface with support for multiple Scheme interpreters including MIT Scheme, Guile, Chez Scheme, Chibi-Scheme, and more.
 
 ## ✨ Features
